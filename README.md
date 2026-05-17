@@ -1,4 +1,4 @@
-# Shopee User Retention & Engagement Analytics
+# E-Commerce User Retention & Engagement Analytics
 
 ## Business Problem
 How do we identify at-risk users before they churn, and which engagement behaviours predict long-term retention?
