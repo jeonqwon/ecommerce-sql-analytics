@@ -1,7 +1,7 @@
 # E-Commerce User Retention & Engagement Analytics
 
 ## Business Problem
-How do we identify at-risk users before they churn, and which engagement behaviours predict long-term retention?
+How do we identify at-risk users before they churn and which engagement behaviours predict long-term retention?
 
 ## Dataset
 Olist Brazilian E-Commerce Dataset (https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) — 100k orders, 2016-2018.
